@@ -2,8 +2,7 @@
 
 I've included a variety of my coding projects in this repository. I've also included some Percent Human code including the Google Docs sidebar that Edward wanted to see.
 
-These projects highlight my skills in Python, Javascript,
-React, data, and Machine Learning.
+These projects highlight my skills in Python, Javascript, React, data pipelines, and Machine Learning.
 
 1. ### Percent Human Google Docs Sidebar
 
