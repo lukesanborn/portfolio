@@ -24,7 +24,7 @@ These projects highlight my skills in Python, Javascript, React, data pipelines,
     Sample interpolated path:
     ![Trajectory Planner](path_planner/paths/fourball/Map-3.png)
 
-4. ### Graph Attention Networks for Relational Stock Ranking with Sentiment and Technical Analysis
+4. ### Media Moments and Corporate Connections: A Deep Learning Approach to Stock Movement Classification - See Arxiv [research paper](https://arxiv.org/abs/2309.06559)
 
     ![Stock market relationships](gat_rsr_stock_ranking/inter_stock_relationships.jpg)
 
