@@ -1,6 +1,6 @@
 # Portfolio
 
-I've included a variety of my coding projects in this repository. I've also included some Percent Human code including the Google Docs sidebar that Edward wanted to see.
+I've included a variety of my coding projects in this repository. I've also included some Percent Human code including the Google Docs sidebar.
 
 These projects highlight my skills in Python, Javascript, React, data pipelines, and Machine Learning.
 
